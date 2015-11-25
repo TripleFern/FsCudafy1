@@ -229,3 +229,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Additional files from Cudafy.
+Readme/
+Tools/
